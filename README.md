@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RanaMagdy
+- 👋 Hi, I’m Rana
 - 👀 I’m interested in programming 
 - 🏫 I’m a sophomore at Faculty of Engineering , Ain Shams 
 - 🌱 I’m currently learning C++ and python 
