@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rana
-- 👀 I’m interested in programming  
-- 🏫 I’m senior student at electronics and communication department, Faculty of Engineering, Ain Shams
-- 🌱 I’m currently learning C++,python,MATLAB,ROS 
-- 💞️ I’m currently open for a summer trainings
+- 👋 Hi, I’m Rana 
+- 🏫 I’m senior student at electronics and communication department, Faculty of Engineering, Ain Shams University
+- 🌱 I’m currently learning Analog IC Design, Digital IC Design. 
+- 💞️ I’m currently open for a summer internships
 
 
 <!---
