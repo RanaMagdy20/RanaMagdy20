@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rana 
-- 🏫 I’m senior student at electronics and communication department, Faculty of Engineering, Ain Shams University
-- I’m currently learning Analog IC Design, Digital IC Design. 
-- I’m currently open for summer internships
+- 🏫 A Fresh Graduate in electronics and communication engineering, Faculty of Engineering, Ain Shams University
+- I’m currently interested in Software Development, Analog IC Design, Digital IC Design and Verification. 
+- Open for Work.
 
 
 <!---
